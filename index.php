@@ -18,4 +18,5 @@ if (file_exists($controllerFile)) {
     }
 } else {
     echo "Controller không tồn tại!";
+    echo"test jira";echo"test view";
 }
